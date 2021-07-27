@@ -19,3 +19,24 @@ _My name is Mark. I am 24 years old. I tried myself in many fields of activity a
 _HTML - 55%_  
 _CSS - 45%_  
 _JS - 15%_
+
+## Code examples
+
+```
+var i;
+for (i=0; i<5; i++) {
+  console.log(i);
+}
+```
+
+## Work experience
+
+_Student in the profession of a developer. Extensive experience in other areas of activity (retail, building)._
+
+## Education
+
+_Secondary general (complete) education. 11 classes._
+
+## English
+
+_Active language learning. Currently level A1._
